@@ -14,10 +14,9 @@ object Lesson01 {
   //Usefull Functions for sqrtNewton
   def sqrt(n: Double): Double = sqrtNewton(1.0, n)
 
-  private def improve(guess: Double, x: Double): Double =
-    (guess + x / guess) / 2
+  private def improve(guess: Double, num: Double): Double = ???
 
-  private def isGoodEnough(guess: Double, x: Double): Boolean =
-    math.abs(guess * guess - x) < 0.001
+  private def isGoodEnough(guess: Double, num: Double): Boolean =
+    math.abs(guess * guess - num) < 0.001
 
 }
