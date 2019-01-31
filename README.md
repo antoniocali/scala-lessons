@@ -2,8 +2,8 @@
 Scala Lessons Exercises
 
 # Info
-This is the land page of the Teradata Scala Workshop.
-To have Lessons, please move to Lesson01 Branch
+This is the landing page of the Teradata Scala Workshop.
+Please move to Lesson01 Branch for your exercises.
 
 `git checkout Lesson01`
 
